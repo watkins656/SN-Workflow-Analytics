@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>This database view will help analyze groups being used in workflow activities.</description>
+        <label>Group in Workflow Activity</label>
+        <name>x_351790_workflow_groups_in_workflows</name>
+        <plural>Groups in Workflow Activity</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-04 22:16:32</sys_created_on>
+        <sys_id>15a0885b2f567010d75c4f2e2c99b627</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_351790_workflow_groups_in_workflows</sys_name>
+        <sys_package display_value="Workflow Analytics" source="x_351790_workflow">dc7eb7c72f567010d75c4f2e2c99b6eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workflow Analytics">dc7eb7c72f567010d75c4f2e2c99b6eb</sys_scope>
+        <sys_update_name>sys_db_view_15a0885b2f567010d75c4f2e2c99b627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-04 22:50:29</sys_updated_on>
+    </sys_db_view>
+</record_update>
